@@ -1,0 +1,6 @@
+{
+  "name": "PDF to JPG Converter",
+  "description": "Convert PDF files into high-quality JPG images, packaging each page into a downloadable ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
